@@ -30,7 +30,7 @@ bin/
 .DS_Store.idea/
 out/
 DB/
-src/Students/
+Students/
 *.log
 *.lck
 derby.log
