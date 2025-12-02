@@ -34,3 +34,5 @@ students/
 *.log
 *.lck
 derby.log
+.DS_Store
+*.iml
